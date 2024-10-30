@@ -1,0 +1,699 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Catna - Name Your Price and Offers for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-05-17 09:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.8.1\n"
+"X-Domain: catna-woo-name-your-price-and-offers"
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:105
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:364
+msgid " or "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:108
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:367
+msgid " to use features"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:209
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:469
+msgid "Accept"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:226
+msgid "Add to cart button label on product list"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:210
+msgid "Add to cart button label on single page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:156
+msgid "Add to cart without bargain"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:199
+msgid "After add to cart button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:264
+msgid "after add to cart button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:109
+msgid "Allow free purchase"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:399
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:556
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:630
+msgid "Background color"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:456
+msgid "Bargain price title"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:160
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:420
+msgid "Bargin based on quantity"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:191
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:452
+msgid "Base on"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:261
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:196
+msgid "Before add to cart button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:390
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:548
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:622
+msgid "Border color"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:380
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:539
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:613
+msgid "Border radius"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:370
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:530
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:604
+msgid "Border width"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:18
+msgid "Catna"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:19
+msgid "Catna "
+msgstr ""
+
+#. Name of the plugin
+msgid "Catna - Woo Name Your Price and Offers"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Catna - Woo Name Your Price and Offers allows customers to purchase products "
+"at their optional price matched the conditions set."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:409
+msgid ""
+"Change the label of the add to cart button on product list. Leave blank to "
+"use the default"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:235
+msgid ""
+"Change the label of the add to cart button on product list. Leave blank to "
+"user the default"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:219
+msgid ""
+"Change the label of the add to cart button on single page. Leave blank to "
+"user the default"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:520
+msgid "Clone"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:305
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:406
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:426
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:473
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:562
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:636
+msgid "Color"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:274
+msgid "Content layout"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:347
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:508
+msgid "Currency code"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:344
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:505
+msgid "Currency symbol"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:154
+msgid "Custom CSS"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:111
+msgid "Design"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:383
+msgid "Display as popup"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:393
+msgid ""
+"Display the bargain form under a popup after clicking the request a bargain "
+"button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:173
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:253
+msgid "Empty suggested price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:72
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:133
+msgid "Enable"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:102
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:361
+msgid "Enable "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:361
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:521
+msgid "Enable currency"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:166
+msgid "Enable to allow to add product to cart, skip bargain steps"
+msgstr ""
+
+#. %s is a placeholder for wc_price.
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:120
+#, php-format
+msgid "Enable to allow to purchase at %s or empty price field"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:135
+msgid ""
+"Enable to hide product price, using product price as default price of the "
+"Name your price. "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:104
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:151
+msgid ""
+"Enable to set global for all variations by setting for parent product "
+"instead of configuring for each individual product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:94
+msgid "Enable to use with quickview"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:194
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:245
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:455
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:501
+msgid "Fixed amount"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:314
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:413
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:434
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:481
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:568
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:642
+msgid "Font size"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:45
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:105
+msgid "General Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:14
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:15
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:24
+msgid "Global Rules"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:110
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:369
+msgid "Global rules"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:126
+msgid "Hidden product price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:201
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:285
+msgid "High suggested price"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://villatheme.com"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://villatheme.com/extensions/catna-woocommerce-name-your-price-and-"
+"offers/"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:33
+msgid ""
+"If Name your price or Offers have not been set on the product editing page "
+"yet, the first matched rule( from top to bottom) will be applied"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:281
+msgid "Input field for suggested price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:448
+msgid "Input offer label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:495
+msgid "Input offer placeholder"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:328
+msgid "Input placeholder"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:141
+msgid "Input price step"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/frontend/frontend.php:136
+msgid "Invalid nonce"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:141
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:401
+msgid "Leave blank to not limit that"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:230
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:488
+msgid "Leave blank to not limit this"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:187
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:269
+msgid "Low suggested price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:179
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:216
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:232
+msgid "Make your offer now"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:224
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:290
+msgid "Maximum acceptable price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:341
+msgid "Maximum acceptable price "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:182
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:235
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:443
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:493
+msgid "Maximum discount value"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:142
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:402
+msgid "Maximum price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:48
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:108
+msgid "Message"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:326
+msgid "Message after suggested price acceptable"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:181
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:262
+msgid "Message when no suggested price entered"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:310
+msgid "Message when suggested price being checked"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:209
+msgid "Message when suggested price higher than the maximum acceptable price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:294
+msgid "Message when suggested price higher than the present price of product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:278
+msgid "Message when suggested price lower than the minimum acceptable price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:195
+msgid "Message when suggested price lower than the minimum acceptable price."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:221
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:287
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:130
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:390
+msgid "Minimum acceptable price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:339
+msgid "Minimum acceptable price "
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:131
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:391
+msgid "Minimum price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:284
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:335
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:336
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:412
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:459
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:502
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:591
+msgid "Name of product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:27
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:28
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:104
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:363
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:554
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:566
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/templates/name-your-price.php:62
+msgid "Name Your Price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:111
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:370
+msgid "Name your price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:100
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:314
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:327
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:359
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:538
+msgid "Name your price & smart offers"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:39
+msgid "Name Your Price for WooCommerce"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:54
+msgid "Name Your Price on Product List"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:51
+msgid "Name Your Price On Single Page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:564
+msgid "Name Your Price, Smart Offer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:162
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:422
+msgid "No"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/frontend/frontend.php:162
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/templates/name-your-price.php:81
+msgid "not limited"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:112
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:371
+msgid "Offer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:173
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:182
+msgid "Offer button label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:189
+msgid "Offer button position"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:400
+msgid "Offer form title"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:158
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:418
+msgid "Offer with product quantity"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:195
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:248
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:456
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:504
+msgid "Percentage"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:595
+msgid "Please enter in a value greater than Minimum price."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:596
+msgid "Please enter in a value greater than regular price."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:598
+msgid "Please enter in a value greater than the Qty from value"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:594
+msgid "Please enter in a value less than Maximum price."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:599
+msgid "Please enter in a value less than the Qty to value"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:597
+msgid "Please enter in a value not greater than 100 percentage."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:600
+msgid "Please enter in a value of the regular price."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/frontend/product.php:237
+msgid "Please enter your quantity to buy this product."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:259
+msgid "Please enter your suggested price for this product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:179
+msgid "Please enter your suggested price to buy this product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/frontend/product.php:227
+msgid ""
+"Please select some product options before adding this product to your cart."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:254
+msgid "Position"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:268
+msgid "Positions of Name your price on single product page"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:218
+msgid "Product name"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:342
+msgid "Product price"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:221
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:481
+msgid "Qty from"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/templates/smart-offers-popup.php:19
+msgid "Quantity"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:85
+msgid "Quickview"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:524
+msgid "Remove"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:439
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:658
+msgid "Save"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:99
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:146
+msgid "Setting for variable products"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/admin.php:17
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/admin.php:18
+msgid "Settings"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:214
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:332
+msgid "Shortcode"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:556
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:568
+msgid "Smart Offer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:107
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:366
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:19
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:20
+msgid "Smart Offers"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:99
+msgid "Smart Offers for WooCommerce"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/frontend/product.php:232
+msgid ""
+"Sorry, this product is unavailable. Please choose a different combination."
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:297
+msgid "Style of content layout"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:354
+msgid "Style of input"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:515
+msgid "Style of input offer"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:466
+msgid "Style of Input offer label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:419
+msgid "Style of offer form title"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:598
+msgid "Style of submit button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:583
+msgid "Submit button label"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:317
+msgid "Successful message"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:227
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:345
+msgid "Suggested price by customer when purchasing product"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:203
+msgid "The position of bargain button"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:28
+msgid ""
+"This feature allows ou to generate as many name-your-price or smart offer "
+"rules as you want that match product conditions or customer conditions set. "
+"It helps save time to set minimum acceptable prices and maximum acceptable "
+"prices for products or customers that matched the rules"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:226
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:485
+msgid "to"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:103
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:158
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:432
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:329
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:38
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/rules.php:43
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:150
+msgid "Unlock This Feature"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:236
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:494
+msgid "Value"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:301
+msgid "Waiting for response"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:163
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/product.php:423
+msgid "Yes"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:207
+msgid "Your suggested price is too high for us"
+msgstr ""
+
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/name-your-price.php:193
+#: D:/Git/villatheme-2019/FREE-VERSION/catna-woo-name-your-price-and-offers/catna-woo-name-your-price-and-offers/includes/admin/smart-offers.php:275
+msgid "Your suggested price is too low for us"
+msgstr ""

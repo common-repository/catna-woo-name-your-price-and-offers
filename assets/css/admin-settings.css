@@ -1,0 +1,80 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+.vicatna-hidden,
+.vicatna-disabled {
+  display: none !important;
+}
+
+.vicatna-save-wrap {
+  position: sticky;
+  bottom: 20px;
+  display: inline-block;
+  z-index: 10;
+}
+
+.vicatna-basic-label {
+  font-weight: 400 !important;
+}
+
+.minicolors-input-swatch {
+  display: none !important;
+}
+
+.minicolors-theme-default.minicolors {
+  width: 100% !important;
+}
+
+.vi-ui .minicolors-theme-default .minicolors-input {
+  height: auto;
+}
+
+.vi-ui.left.labeled.input .vicatna-color {
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-left-color: transparent;
+}
+
+.vi-ui.segment {
+  height: 100%;
+}
+
+.vi-ui.menu {
+  flex-wrap: wrap;
+}
+
+.vi-ui.form .fields {
+  gap: 10px;
+}
+
+form td .field label {
+  font-weight: 400 !important;
+}
+
+input[type=number] {
+  height: auto;
+}
+
+.vicatna-img-preview-wrap {
+  text-align: center;
+}
+
+a.vicatna-img-preview {
+  max-width: 100%;
+}
+a.vicatna-img-preview img {
+  max-width: 100%;
+}
+
+.gloabal_rules_settings {
+  width: 900px;
+}
+
+/*# sourceMappingURL=admin-settings.css.map */

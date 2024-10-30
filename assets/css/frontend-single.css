@@ -1,0 +1,391 @@
+.vicatna-disabled {
+    display: none !important;
+}
+
+
+.vicatna-message-popup-wrap {
+    max-width: calc(100% - 40px);
+    min-width: 250px;
+    height: auto;
+    min-height: 60px;
+    max-height: 200px;
+    padding: 5px 10px;
+    position: fixed;
+    z-index: 9999999999;
+    left: 50%;
+    bottom: 20px;
+    background: #111;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    color: #fff;
+    text-align: center;
+    animation-fill-mode: both;
+    transform: translate(-50%, 0);
+}
+
+.vicatna-message-popup-wrap *::before,
+.vicatna-message-popup-wrap *::after {
+    display: none !important;
+}
+
+.vicatna-message-popup-wrap * {
+    background: transparent !important;
+    color: inherit !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    border: unset !important;
+    list-style: none !important;
+}
+
+.vicatna-message-popup-wrap.vicatna-message-popup-wrap-show {
+    animation-duration: 1s;
+    animation-name: vicatna-slide_in_up;
+}
+
+@keyframes vicatna-slide_in_up {
+    from {
+        transform: translate3d(-50%, 100%, 0);
+        visibility: visible;
+    }
+    to {
+        transform: translate3d(-50%, 0, 0);
+    }
+}
+
+.vicatna-message-popup-wrap.vicatna-message-popup-wrap-hide {
+    animation-duration: 1s;
+    animation-name: vicatna-slide_out_down;
+}
+
+@keyframes vicatna-slide_out_down {
+    from {
+        transform: translate3d(-50%, 0, 0);
+        opacity: 1;
+    }
+    to {
+        visibility: hidden;
+        transform: translate3d(-50%, 100%, 0);
+        opacity: 0;
+    }
+}
+
+.vicatna-form-init {
+    display: block !important;
+    float: unset !important;
+}
+
+.single_add_to_cart_button ~ .vicatna-wrap {
+    clear: both;
+}
+
+.vicatna-wrap {
+    display: inline-grid;
+    width: 100%;
+    grid-gap: 10px;
+    margin: 10px auto;
+    justify-content: flex-start;
+}
+
+
+.vicatna-value-wrap {
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+.vicatna-value-wrap-symbol-left {
+    padding-left: 30px;
+}
+
+.vicatna-value-wrap-symbol-right {
+    padding-right: 30px;
+}
+
+.vicatna-value-wrap-symbol-left .vicatna-value-symbol {
+    border-right: 0;
+    left: 0;
+}
+
+.vicatna-value-wrap-symbol-right .vicatna-value-symbol {
+    border-left: 0;
+    right: 0;
+}
+
+.vicatna-value-wrap-symbol-left .vicatna-value-symbol,
+.vicatna-value-wrap-symbol-right .vicatna-value {
+    border-bottom-right-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
+.vicatna-value-wrap-symbol-left .vicatna-value,
+.vicatna-value-wrap-symbol-right .vicatna-value-symbol {
+    border-bottom-left-radius: 0 !important;
+    border-top-left-radius: 0 !important;
+}
+
+.vicatna-value-symbol {
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    bottom: 0;
+    border-style: solid;
+    color: initial;
+    line-height: 1;
+}
+
+.vicatna-value {
+    display: inline-flex;
+    align-items: center;
+    border-style: solid !important;
+    margin: 0;
+    padding: 6px 10px;
+    min-height: 30px;
+    min-width: 120px;
+    line-height: 1;
+    box-shadow: none !important;
+    background: transparent;
+}
+
+input.vicatna-value[type="number"]::-webkit-outer-spin-button,
+input.vicatna-value[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none !important;
+    margin-right: 0 !important;
+}
+
+.vicatna-button:hover {
+    background: #262626;
+    color: #fff;
+}
+
+.vicatna-button {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 36px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+    min-width: 0 !important;
+    min-height: 0 !important;
+    border: 0;
+    margin: 0;
+    background: #141319;
+    color: #fff;
+    text-transform: none !important;
+    transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -ms-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    font-weight: normal;
+    position: relative;
+}
+
+.vicatna-button-loading {
+    padding-left: 26px !important;
+    position: relative
+}
+
+.vicatna-button-loading:before {
+    position: absolute;
+    left: 8px;
+    top: 35%;
+    content: '' !important;
+    border: 2px solid #f3f3f3;
+    border-top: 2px solid #838a8e;
+    border-radius: 50%;
+    width: 10px;
+    height: 10px;
+    animation: vicatna-spin 1s linear infinite
+}
+
+@keyframes vicatna-spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.vicatna-html-non-scroll {
+    overflow: hidden !important;
+}
+
+.vicatna-popup-wrap {
+    position: fixed;
+    z-index: 999999999;
+    bottom: 0;
+}
+
+.vicatna-popup-wrap *, .vicatna-popup-wrap ::after, .vicatna-popup-wrap ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.vicatna-popup-overlay {
+    content: '';
+    background-color: rgba(0, 0, 0, .3);
+    display: block;
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.vicatna-popup-form-wrap {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    color: #000;
+}
+
+.vicatna-popup-cancel {
+    font-family: "Source Sans Pro", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    background: #000;
+    color: #fff;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: 1;
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    z-index: 10;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+.vicatna-popup-form {
+    height: auto;
+    width: auto;
+    margin: auto;
+    position: relative;
+    background: #fff;
+    padding: 35px 25px;
+    max-width: 60%;
+    max-height: calc(100vh - 40px);
+    min-width: 350px;
+    min-height: 200px;
+    z-index: 10;
+    display: inline-flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+}
+
+.vicatna-popup-form.vicatna-popup-form-loading:after {
+    content: '';
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    max-height: 100%;
+    opacity: .3;
+}
+
+.vicatna-popup-form > div {
+    flex-grow: 1;
+    margin-bottom: 30px;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.vicatna-popup-form .vicatna-popup-form-footer-wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.vicatna-popup-form-header-wrap {
+    font-size: 20px;
+}
+
+.vicatna-popup-form-content-wrap {
+    display: inline-grid;
+    grid-gap: 15px;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.vicatna-popup-form-content {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.vicatna-popup-form-content.vicatna-popup-form-content-center {
+    justify-content: center;
+}
+
+.vicatna-popup-form-content-title {
+    margin-right: 10px;
+}
+
+.vicatna-popup-form-content-value {
+    text-align: right;
+}
+
+.vicatna-popup-form-content-value select {
+    width: auto;
+    min-width: 130px;
+    max-width: 100% !important;
+    display: block !important;
+    margin: 0 !important;
+    color: #212121;
+    background-color: #fff;
+    padding: 2px;
+    height: auto;
+    border: 1px solid #eee;
+    min-height: 39px;
+}
+
+.vicatna-popup-form-content-value .vicatna-value-wrap {
+    max-width: 100%;
+}
+
+.vicatna-popup-form-content-value .vicatna-value-symbol {
+    border-width: 1px;
+    border-color: #ccc;
+}
+
+.vicatna-popup-form-content-value .vicatna-value {
+    width: auto;
+    min-width: 130px;
+    max-width: 100% !important;
+    border-width: 1px;
+    border-color: #ccc;
+    background: #fff;
+}
+
+@media screen  and (max-width: 640px) {
+    .vicatna-popup-form-content-value .vicatna-value {
+        max-width: 150px !important;
+    }
+}
+
+.vicatna-message-wrap:not(.vicatna-message-wrap-show) {
+    display: none !important;
+}
+
+.vicatna-popup-form-bt-swatches-disable {
+    opacity: .6;
+}
